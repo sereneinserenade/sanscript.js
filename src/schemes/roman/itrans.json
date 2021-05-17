@@ -9,7 +9,7 @@
 	"skip": "_",
 	"accent": ["\\'", "\\_"],
 	"combo_accent": ["\\'H", "\\_H", "\\'M", "\\_M"],
-	"other": ["q", "K", "G", "z", ".D", ".Dh", "f", "Y", "R"],
+    "other": ["q", "K", "G", "z", ".D", ".Dh", "f", "Y", "R", "zh"],
 	"alternates": {
         "A": ["aa"],
         "I": ["ii", "ee"],
